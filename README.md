@@ -7,6 +7,7 @@ I am a Web Developer with expereince using [PHP](https://www.php.net/), [JavaScr
 
 ## Find me using these languges.
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg" style="width: 30px; hight: 30px;">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krispowers&theme=algolia&show_icons=true) 
 
 ## Find my GitHub statistics here:
