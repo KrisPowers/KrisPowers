@@ -13,7 +13,3 @@ I am a Web Developer with expereince using [PHP](https://www.php.net/), [JavaScr
 ## Find my GitHub statistics here:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krispowers&theme=algolia&show_icons=true)
 
-## Find my favorite Projects.
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pittimes&repo=pit-times&theme=algolia&show_icons=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krispowers&repo=javascript-calculator&theme=algolia&show_icons=true)
-
