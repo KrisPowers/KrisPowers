@@ -5,6 +5,29 @@
 ## Find out more about me.
 I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/), [Json](https://www.json.org/json-en.html), & many other languages. I have spent the last 4 years learning, practicing, & using the things I have learned to make cool projects. Some consist of stats tracking, live time leaderboards, news/blogs, & much more. I am always looking for projects to contribute to.
 
+```text
+😀 My Name:
+Kris Powers
+
+📍 Location:
+Charlotte, North Carolina
+
+⌚︎ Time Zone:
+EST
+
+💬 Expereincded Programming in these Languages: 
+Javascript, HTMl, CSS, Python, PHP, C++, JSON, & Many others.
+
+💻 Current Projects: 
+Pit Times (Formula 1 Statistic Tracker, Live Time Tracker, & more.)
+```
+
+## My GitHub Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krispowers&theme=algolia&show_icons=true)
+
+![](https://komarev.com/ghpvc/?username=krispowers&color=blue&style=for-the-badge)
+
+
 ## Find me around.
 
 <p>
@@ -17,25 +40,3 @@ I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScr
 <a href="https://www.instagram.com/KrisPowrs">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
-
-## Find me using these languages.
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" style="width: 30px; hight: 30px;"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg" style="width: 30px; hight: 30px;">
-
-## Keep up with me.
-```text
-⌚︎ Time Zone:
-EST
-
-💬 Mosted used Programming Languages: 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" style="width: 30px; hight: 30px;">, HTMl, CSS, JSON, & Python.
-
-💻 Current Projects: 
-Pit Times (Formula 1 Statistic Tracker, Live Time Tracker, & more.
-```
-## Find my GitHub statistics here:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krispowers&theme=algolia&show_icons=true) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krispowers&theme=algolia&show_icons=true)
-
-
-![](https://komarev.com/ghpvc/?username=krispowers&color=blue&style=for-the-badge)
-
