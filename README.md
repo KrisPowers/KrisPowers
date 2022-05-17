@@ -8,7 +8,6 @@ I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScr
 ## Find me around.
 
 <p>
-<br/>
 <a href="https://twitter.com/F1Powers">
   <img alt="Kris Powers | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
