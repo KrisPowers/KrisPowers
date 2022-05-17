@@ -8,7 +8,7 @@ I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScr
 ```text
 - 😀 I'm currently working on PitTimes.com
 - 📍 I'm currently at Charlotte, North Carolina
-- ⌚︎ I'm in the Eastern Standard Time (EST) Timezone
+- ⏰ I'm in the Eastern Standard Time (EST) Timezone
 - 💬 I'm expereincded in Javascript, HTMl, CSS, Python, PHP, C++, JSON, & Many others
 - 🌴 I'm currently learning Advanced C++
 ```
