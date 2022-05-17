@@ -13,7 +13,7 @@ Kris Powers
 Charlotte, North Carolina
 
 ⌚︎ Time Zone:
-EST
+Eastern Standard Time - EST
 
 💬 Expereincded Programming in these Languages: 
 Javascript, HTMl, CSS, Python, PHP, C++, JSON, & Many others.
