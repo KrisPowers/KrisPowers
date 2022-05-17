@@ -6,19 +6,19 @@
 I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/), [Json](https://www.json.org/json-en.html), & many other languages. I have spent the last 4 years learning, practicing, & using the things I have learned to make cool projects. Some consist of stats tracking, live time leaderboards, news/blogs, & much more. I am always looking for projects to contribute to.
 
 ```text
-😀 My Name:
+- 😀 My Name:
 Kris Powers
 
-📍 Location:
+- 📍 Location:
 Charlotte, North Carolina
 
-⌚︎ Time Zone:
+- ⌚︎ Time Zone:
 Eastern Standard Time - EST
 
-💬 Expereincded Programming in these Languages: 
+- 💬 Expereincded Programming in these Languages: 
 Javascript, HTMl, CSS, Python, PHP, C++, JSON, & Many others.
 
-💻 Current Projects: 
+- 💻 Current Projects: 
 Pit Times (Formula 1 Statistic Tracker, Live Time Tracker, & more.)
 ```
 
