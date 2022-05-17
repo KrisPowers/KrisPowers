@@ -23,14 +23,15 @@ I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScr
 
 ## Keep up with me.
 ```text
-⌚︎ Time Zone: EST
+⌚︎ Time Zone:
+EST
 
 💬 Mosted used Programming Languages: 
 Javascript, HTMl, CSS, JSON, & Python.
 
 💻 Current Projects: 
-[PitTimes.com](https://pittimes.com)
-
+Pit Times (Formula 1 Statistic Tracker, Live Time Tracker, & more.
+  
 ```
 ## Find my GitHub statistics here:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krispowers&theme=algolia&show_icons=true) 
