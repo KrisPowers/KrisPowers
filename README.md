@@ -12,5 +12,6 @@ I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScr
 
 ## Find my GitHub statistics here:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krispowers&theme=algolia&show_icons=true)
+
 ![](https://komarev.com/ghpvc/?username=krispowers&color=blueviolet&style=for-the-badge)
 
