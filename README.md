@@ -27,11 +27,10 @@ I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScr
 EST
 
 💬 Mosted used Programming Languages: 
-Javascript, HTMl, CSS, JSON, & Python.
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" style="width: 30px; hight: 30px;">, HTMl, CSS, JSON, & Python.
 
 💻 Current Projects: 
 Pit Times (Formula 1 Statistic Tracker, Live Time Tracker, & more.
-  
 ```
 ## Find my GitHub statistics here:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krispowers&theme=algolia&show_icons=true) 
