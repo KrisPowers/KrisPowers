@@ -10,7 +10,7 @@ I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScr
 - 📍 I'm currently at Charlotte, North Carolina
 - ⏰ I'm in the Eastern Standard Time (EST) Timezone
 - 💬 I'm expereincded in Javascript, HTMl, CSS, Python, PHP, C++, JSON, & Many others
-- 🌴 I'm currently learning Advanced C++
+- 🌴 I'm currently learning Kali Linux
 ```
 
 ## My GitHub Statistics
