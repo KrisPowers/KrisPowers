@@ -9,8 +9,8 @@ I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScr
 - 😀 I'm currently working on PitTimes.com
 - 📍 I'm currently at Charlotte, North Carolina
 - ⏰ I'm in the Eastern Standard Time (EST) Timezone
-- 💬 I'm expereincded in Javascript, HTMl, CSS, Python, PHP, C++, JSON, & Many others
-- 🌴 I'm currently learning Kali Linux
+- 💬 I'm expereincded in JavaScript, HTMl, CSS, Python, PHP, C++, JSON, & Many others
+- 🌴 I'm currently learning Java
 ```
 
 ## My GitHub Statistics
@@ -22,7 +22,7 @@ I am a Web Developer with experience using [PHP](https://www.php.net/), [JavaScr
 ## Find me around.
 
 <p>
-<a href="https://twitter.com/F1Powers">
+<a href="https://twitter.com/KrisPowers21">
   <img alt="Kris Powers | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
 <a href="https://www.linkedin.com/in/kristopher-powers-b4973a215/">
