@@ -1,10 +1,9 @@
 # 💫 About Me:
 ```text
-- 😀 I'm currently working on ubicord.com
+- 😀 I'm currently working on Expressboard
 - 📍 I'm currently at Charlotte, North Carolina
 - ⏰ I'm in the Eastern Standard Time (EST) Timezone
 - 💬 I'm expereincded in HTMl, CSS, Python, JavaScript, Typescript, Java, PHP, React, & more.
-- 🌴 I'm currently learning Rust
 ```
 
 
